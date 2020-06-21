@@ -1,6 +1,9 @@
 # Front-end Style Guide
+=======================
+=======================
 
 ## Layout
+=========
 
 The designs were created to the following widths:
 
@@ -8,6 +11,7 @@ The designs were created to the following widths:
 - Desktop: 1440px
 
 ## Colors
+=========
 
 ### Primary
 
@@ -21,6 +25,7 @@ The designs were created to the following widths:
 - Very Dark Blue: hsl(229, 57%, 11%)
 
 ## Typography
+=============
 
 ### Body Copy
 
